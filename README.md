@@ -17,7 +17,7 @@
 
 
 ```
-pyinstaller --onefile --noconsole user_forcedinit.py
+pyinstaller --onefile --noconsole main.py
 
 ```
 <h3>Numpad Input: </h3>
