@@ -1,4 +1,4 @@
-<h1 align="center">Python Keylogger 🐍 </h1>
+<h1 align="center">Python Keylogger </h1>
 <h3>Python Keylogger </h3>
 𖧹  Local use (no bridge connection yet)
 <h3>Libraries: </h3>
